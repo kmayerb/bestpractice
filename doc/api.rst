@@ -5,7 +5,7 @@ API
 Classes
 -------
 
-.. currentmodule:: shablona
+.. currentmodule:: bestpractice
 
 .. autosummary::
    :template: class.rst
